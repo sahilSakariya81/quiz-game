@@ -90,7 +90,7 @@ Submits answer and checks correctness.
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/quiz-game-springboot.git
+git clone https://github.com/sahilSakariya81/quiz-game.git
 ```
 
 2. Open project in **IntelliJ / Eclipse**
